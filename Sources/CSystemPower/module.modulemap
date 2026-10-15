@@ -1,0 +1,5 @@
+module CSystemPower [system] {
+    header "CSystemPower.h"
+    link "IOReport"
+    export *
+}
